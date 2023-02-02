@@ -1,3 +1,16 @@
 {
-    "books": []
+  "books": [
+    {
+      "title": "Dark Town 2",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter",
+      "id": 2
+    },
+    {
+      "title": "Pirates of Carribean",
+      "id": 3
+    }
+  ]
 }
